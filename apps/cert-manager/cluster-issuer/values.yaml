@@ -1,0 +1,4 @@
+prod:
+  enabled: false
+  email: admin@example.com
+  server: https://acme-v02.api.letsencrypt.org/directory

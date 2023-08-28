@@ -1,0 +1,3 @@
+prod:
+  enabled: true
+  email: admin@fatherbean.com
