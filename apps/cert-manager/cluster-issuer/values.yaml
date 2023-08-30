@@ -1,4 +1,4 @@
 prod:
   enabled: false
-  email: admin@example.com
+  email: lavoril.chan@gmail.com
   server: https://acme-v02.api.letsencrypt.org/directory
